@@ -1,101 +1,13 @@
-product_id,product_name,sales,region,quarter
-1,Product_1,15865,EMEA,Q2
-2,Product_2,43403,EMEA,Q4
-3,Product_3,30256,EMEA,Q2
-4,Product_4,49568,EMEA,Q2
-5,Product_5,2283,EMEA,Q3
-6,Product_6,21303,EMEA,Q2
-7,Product_7,5780,EMEA,Q4
-8,Product_8,33296,APAC,Q2
-9,Product_9,42121,EMEA,Q4
-10,Product_10,35326,Americas,Q1
-11,Product_11,45442,APAC,Q2
-12,Product_12,24036,Americas,Q2
-13,Product_13,18841,APAC,Q2
-14,Product_14,38261,Americas,Q1
-15,Product_15,33697,EMEA,Q4
-16,Product_16,19972,EMEA,Q3
-17,Product_17,2203,Americas,Q4
-18,Product_18,2059,Americas,Q1
-19,Product_19,12595,APAC,Q2
-20,Product_20,42371,EMEA,Q3
-21,Product_21,24051,APAC,Q1
-22,Product_22,16434,Americas,Q3
-23,Product_23,35726,Americas,Q1
-24,Product_24,41103,EMEA,Q2
-25,Product_25,36674,EMEA,Q4
-26,Product_26,4061,APAC,Q2
-27,Product_27,13965,APAC,Q3
-28,Product_28,38310,Americas,Q1
-29,Product_29,25184,APAC,Q2
-30,Product_30,30665,APAC,Q2
-31,Product_31,47232,Americas,Q1
-32,Product_32,49180,Americas,Q3
-33,Product_33,1124,APAC,Q3
-34,Product_34,26619,APAC,Q3
-35,Product_35,24739,APAC,Q1
-36,Product_36,37267,Americas,Q4
-37,Product_37,37404,EMEA,Q1
-38,Product_38,6367,EMEA,Q1
-39,Product_39,35935,APAC,Q3
-40,Product_40,13049,APAC,Q3
-41,Product_41,8685,Americas,Q1
-42,Product_42,22861,APAC,Q4
-43,Product_43,36110,EMEA,Q4
-44,Product_44,11832,EMEA,Q2
-45,Product_45,33963,EMEA,Q4
-46,Product_46,14844,Americas,Q2
-47,Product_47,44195,APAC,Q2
-48,Product_48,28764,Americas,Q3
-49,Product_49,17062,EMEA,Q1
-50,Product_50,21323,Americas,Q4
-51,Product_51,20268,Americas,Q1
-52,Product_52,18611,EMEA,Q4
-53,Product_53,19111,Americas,Q3
-54,Product_54,41903,EMEA,Q1
-55,Product_55,45892,EMEA,Q1
-56,Product_56,25380,Americas,Q3
-57,Product_57,10627,APAC,Q3
-58,Product_58,31181,EMEA,Q1
-59,Product_59,43783,EMEA,Q3
-60,Product_60,30973,APAC,Q3
-61,Product_61,40173,APAC,Q1
-62,Product_62,39714,Americas,Q3
-63,Product_63,26493,EMEA,Q4
-64,Product_64,39972,APAC,Q1
-65,Product_65,42776,Americas,Q2
-66,Product_66,6082,Americas,Q1
-67,Product_67,40148,Americas,Q4
-68,Product_68,10620,EMEA,Q3
-69,Product_69,40430,EMEA,Q4
-70,Product_70,18644,Americas,Q1
-71,Product_71,8869,EMEA,Q3
-72,Product_72,42459,EMEA,Q1
-73,Product_73,16412,EMEA,Q3
-74,Product_74,3824,Americas,Q2
-75,Product_75,47264,APAC,Q2
-76,Product_76,41076,Americas,Q2
-77,Product_77,34657,Americas,Q3
-78,Product_78,10581,Americas,Q2
-79,Product_79,12401,Americas,Q3
-80,Product_80,7423,Americas,Q2
-81,Product_81,14918,EMEA,Q2
-82,Product_82,41229,Americas,Q2
-83,Product_83,3245,APAC,Q1
-84,Product_84,45211,EMEA,Q1
-85,Product_85,34031,APAC,Q2
-86,Product_86,11081,Americas,Q4
-87,Product_87,42727,EMEA,Q4
-88,Product_88,41567,EMEA,Q4
-89,Product_89,44836,EMEA,Q4
-90,Product_90,24562,EMEA,Q4
-91,Product_91,17935,Americas,Q3
-92,Product_92,21150,EMEA,Q3
-93,Product_93,5293,EMEA,Q4
-94,Product_94,48318,EMEA,Q4
-95,Product_95,37964,Americas,Q1
-96,Product_96,25802,EMEA,Q3
-97,Product_97,20601,EMEA,Q3
-98,Product_98,43944,EMEA,Q1
-99,Product_99,13813,Americas,Q1
-100,Product_100,32210,APAC,Q1
+product_id,product_name,sales,region,quarter,profit_margin
+1,Widget A,15000,EMEA,Q1,42
+2,Widget B,12000,Americas,Q1,38
+3,Widget C,8000,APAC,Q1,28
+4,Product X,22000,EMEA,Q2,45
+5,Product Y,18000,Americas,Q2,40
+6,Product Z,9000,APAC,Q2,32
+7,Widget A,20000,EMEA,Q3,42
+8,Widget B,16000,Americas,Q3,38
+9,Widget C,11000,APAC,Q3,28
+10,Product X,25000,EMEA,Q4,45
+11,Product Y,21000,Americas,Q4,40
+12,Product Z,13000,APAC,Q4,32

@@ -1,0 +1,13 @@
+{
+  "_descripcion": "Precio de referencia en USD por modelo. Se usa para prorratear una factura con varios modelos. Territory y Taos se venden pero no tienen precio cargado a propósito: el dashboard los muestra como 'pendiente de precio'.",
+  "precios": {
+    "Corolla Cross": 32000,
+    "Hilux": 48000,
+    "Yaris": 19000,
+    "Amarok": 52000,
+    "Onix": 17000,
+    "Tracker": 26000,
+    "Kicks": 24000
+  },
+  "modelos_sin_precio": ["Territory", "Taos"]
+}

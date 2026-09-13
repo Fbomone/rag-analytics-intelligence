@@ -1,0 +1,47 @@
+{
+  "descripcion": "Respuestas reales del asistente, precalculadas para el modo demo (sin API key).",
+  "generado": "2026-09-13",
+  "periodo": "02/01/2024 – 25/08/2026",
+  "estados_servicio": [
+    "Cobrado",
+    "Facturado esperando cobro",
+    "Trabajo realizado"
+  ],
+  "modelo_chat": "command-a-plus-05-2026",
+  "modelo_embed": "embed-v4.0",
+  "respuestas": [
+    {
+      "pregunta": "¿Qué servicio dejó más margen este año?",
+      "respuesta": "**Respuesta:**\nNo se puede determinar el margen exacto (no hay datos de costos), pero usando el mejor aproximador disponible (ingreso por hora de trabajo), **Chapa y pintura** es el servicio más rentable en 2026: US$ 67 por hora (US$ 836 de ingreso total).\n\n**Sustento:**\n- 2026 es el año en curso (datos hasta 25/08/2026).\n- Ingresos por servicio 2026:\n  - Chapa y pintura US$ 836, 1 orden, US$ 67/h\n  - Mecánica general US$ 2.865, 8 órdenes, US$ 55/h\n  - Cambio de aceite US$ 681, 10 órdenes, US$ 65/h\n  - Detailing completo US$ 1.216, US$ 35/h, etc.\n- Sin costos, no se puede calcular margen real; el ingreso por hora refleja mejor la rentabilidad por mano de obra. Si se evalúa por ingreso total, Mecánica general es la mayor (US$ 2.865), pero su margen por hora es menor que el de Chapa y pintura. Se necesitarían datos de costos para calcular el margen real.",
+      "fuentes": [
+        "Diccionario de datos y reglas de negocio",
+        "Resumen general del período",
+        "Servicios de taller",
+        "Calidad de datos",
+        "Cobranza y pendientes"
+      ]
+    },
+    {
+      "pregunta": "¿Qué vendedor tuvo mejor desempeño?",
+      "respuesta": "**Respuesta:** Luca Gonzalez tuvo el mejor desempeño general, con las mayores comisiones generadas (US$ 22.643) en el período.\n\n**Sustento:**\n- Ranking de comisiones totales de vendedores: Luca US$ 22.643 > Uma US$ 20.002 > Abril US$ 19.102 > Ciro US$ 17.318 > Victoria US$ 16.805 (datos del contexto).\n- Luca también lidera en volumen intermediado (US$ 418.000) y unidades vendidas (16) con una comisión promedio por operación de US$ 1.742 (5,5 % del volumen).\n- Si el criterio fuera comisión por operación, Uma Rodriguez es superior (US$ 2.000 por operación), pero el desempeño general se mide por comisiones totales generadas, donde Luca es el líder.",
+      "fuentes": [
+        "Diccionario de datos y reglas de negocio",
+        "Resumen general del período",
+        "Desempeño de vendedores",
+        "Venta de autos",
+        "Cobranza y pendientes"
+      ]
+    },
+    {
+      "pregunta": "¿Cuánto tengo pendiente de cobro?",
+      "respuesta": "**Respuesta:** US$ 28.901 pendiente de cobro (US$ 28.336 facturado sin cobrar + US$ 565 trabajo realizado sin facturar).\n\n**Sustento:**\n- El resumen de cobranza indica \"Total pendiente (por cobrar + por facturar): US$ 28.901\".\n- Detalle: \"Por cobrar (facturado sin cobrar): US$ 28.336\" (taller US$ 6.542, comisiones US$ 21.794).\n- \"Por facturar (trabajos terminados sin facturar): US$ 565\" (solo taller).\n- Por lo tanto, el total de montos aún no percibidos es la suma de ambas categorías, US$ 28.901.",
+      "fuentes": [
+        "Diccionario de datos y reglas de negocio",
+        "Resumen general del período",
+        "Cobranza y pendientes",
+        "Calidad de datos",
+        "Venta de autos"
+      ]
+    }
+  ]
+}

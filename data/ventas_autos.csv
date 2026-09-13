@@ -1,0 +1,61 @@
+id_operacion,fecha_venta,cliente,modelo,condicion,origen_lead,forma_pago,estado,vendedor,factura_sin_iva,comision_pct,comision_monto,cobrado
+OP-001,2024-01-03,Luciana Quiroga,Tracker,Nuevo,Instagram,Financiado,Entregado,Ciro Gonzalez,27100.0,6.5,1761.5,no
+OP-002,2024-03-08,Catalina Gomez,Hilux,Nuevo,Instagram,Permuta + saldo,Entregado,Ciro Gonzalez,48800.0,6.0,2928.0,si
+OP-003,2024-04-01,Guillermina Lopez,"Corolla Cross, Yaris",Usado,Showroom,Financiado,Reservado,Victoria Diaz,39200.0,6.0,2352.0,no
+OP-004,2024-05-27,Micaela Ojeda,Onix,Usado,Instagram,Financiado,Entregado,Luca Gonzalez,12500.0,3.5,437.5,si
+OP-005,2024-06-16,Santino Garcia,Territory,Nuevo,Showroom,Financiado,Devuelto,Luca Gonzalez,38400.0,4.5,1728.0,no
+OP-006,2024-07-01,  THIAGO BENJAMIN MAIDANA,Territory,Nuevo,Referido,Financiado,Entregado,Luca Gonzalez,37400.0,3.0,1122.0,si
+OP-007,2024-07-04,Juana Godoy,"Corolla Cross, Onix",Usado,Instagram,Permuta + saldo,Entregado,Ciro Gonzalez,34700.0,4.0,1388.0,si
+OP-008,2024-07-18,Olivia Velazquez,Onix,Nuevo,Referido,Permuta + saldo,Entregado,Victoria Diaz,17400.0,6.5,1131.0,si
+OP-009,2024-07-28,Agustin Caceres,Territory,Nuevo,Showroom,Contado,Devuelto,Uma Rodriguez,33600.0,4.5,1512.0,no
+OP-010,2024-08-26,Facundo Moyano,Yaris,Nuevo,Instagram,Permuta + saldo,Entregado,Ciro Gonzalez,"$ 18.800,00",5.0,940.0,si
+OP-011,2024-09-04,Micaela Ojeda,Kicks,Usado,Showroom,Contado,Entregado,Ciro Gonzalez,16900.0,6.5,1098.5,si
+OP-012,2024-09-20,Thiago Diaz,Corolla Cross,Usado,Showroom,Contado,Entregado,Abril Peralta,22700.0,7.5,1702.5,si
+OP-013,2024-09-26,Santino Garcia,"Tracker, Tracker",Usado,Web,Contado,Entregado,Ciro Gonzalez,,3.0,,si
+OP-014,2024-10-10,Lautaro Benjamin Vera,"Corolla Cross, Onix",Nuevo,Web,Contado,Entregado,Ciro Gonzalez,46200.0,5.0,2310.0,si
+OP-015,2024-10-16,Lara Cabrera,Tracker,Usado,Web,Contado,Entregado,Uma Rodriguez,18600.0,4.0,744.0,si
+OP-016,2025-01-06,Catalina Gomez,Yaris,Nuevo,Instagram,Permuta + saldo,Entregado,Abril Peralta,19600.0,7.0,1372.0,si
+OP-017,2025-02-12,Santiago Acosta,Corolla Cross,Nuevo,Instagram,Contado,Entregado,Luca Gonzalez,31800.0,4.5,1431.0,si
+OP-018,2025-02-26,Luciana Quiroga,"Hilux, Hilux",Usado,Web,Contado,Entregado,Abril Peralta,64700.0,4.5,2911.5,si
+OP-019,2025-03-07,Catalina Gomez,Onix,Nuevo,Web,Permuta + saldo,Entregado,Victoria Diaz,16400.0,5.5,902.0,si
+OP-020,2025-04-09,Luciana Quiroga,Onix,Usado,Showroom,Permuta + saldo,Reservado,Ciro Gonzalez,11800.0,3.5,413.0,no
+OP-021,2025-04-10,Bautista Martinez,"Tracker, Onix",Nuevo,Referido,Contado,Reservado,Abril Peralta,41800.0,4.5,1881.0,si
+OP-022,2025-04-17,Micaela Ojeda,Amarok,Nuevo,Referido,Contado,Entregado,Abril Peralta,49900.0,5.5,2744.5,si
+OP-023,2025-06-20,Lara Cabrera,"Territory, Amarok",Usado,Web,Financiado,Reservado,Luca Gonzalez,"$ 69.000,00",5.5,3795.0,no
+OP-024,2025-06-21,Benjamin Muñoz,Tracker,Nuevo,Instagram,Contado,Entregado,Ciro Gonzalez,25500.0,6.5,1657.5,si
+OP-025,2025-06-22,Delfina Leiva,"Kicks, Onix, Tracker",Nuevo,Instagram,Cheques,Entregado,Abril Peralta,67600.0,6.5,4394.0,si
+OP-026,2025-06-24,Simon Guzman,Onix,Nuevo,Instagram,Permuta + saldo,Entregado,Luca Gonzalez,17000.0,6.0,1020.0,si
+OP-027,2025-06-30,Catalina Gomez,Yaris,Nuevo,Referido,Permuta + saldo,Entregado,Victoria Diaz,18700.0,7.0,1309.0,si
+OP-028,2052-06-18,Nicolas Rodriguez,Territory,Nuevo,Showroom,Financiado,Entregado,Victoria Diaz,38900.0,7.5,2917.5,si
+OP-029,2025-07-14,Luciana Quiroga,"Tracker, Territory, Corolla Cross",Nuevo,Referido,Financiado,Entregado,Uma Rodriguez,96600.0,5.5,5313.0,si
+OP-030,2025-07-18,Mateo Agustin Martinez,Amarok,Usado,MercadoLibre,Cheques,Entregado,Luca Gonzalez,39400.0,6.0,2364.0,si
+OP-031,2025-09-19,Catalina Gomez,Taos,Nuevo,Instagram,Permuta + saldo,Entregado,Uma Rodriguez,30000.0,6.5,1950.0,si
+OP-032,2025-10-05,Catalina Gomez,"Onix, Corolla Cross",Usado,Showroom,Contado,Reservado,Luca Gonzalez,34500.0,7.5,2587.5,no
+OP-033,2025-11-14,Santino Benitez,"Tracker, Tracker",Nuevo,Web,Contado,Entregado,Uma Rodriguez,49200.0,3.5,1722.0,si
+OP-034,2025-12-03,Juan Bautista Roldan,"Corolla Cross, Taos",Nuevo,Web,Contado,Entregado,Luca Gonzalez,60000.0,3.5,2100.0,si
+OP-035,2025-12-23,Francisco Garcia,Kicks,Nuevo,Showroom,Contado,Devuelto,Abril Peralta,22500.0,7.0,1575.0,no
+OP-036,2025-12-25,León Blanco,Territory,Usado,Instagram,Financiado,Entregado,Victoria Diaz,27900.0,4.0,1116.0,si
+OP-037,2026-01-02,Ambar Ruiz,Corolla Cross,Usado,Referido,Contado,Entregado,Victoria Diaz,22000.0,6.0,1320.0,si
+OP-038,2026-01-11,Juan Sebastian Godoy,Yaris,Usado,Web,Financiado,Entregado,Abril Peralta,14500.0,5.0,725.0,si
+OP-039,2026-01-13,Thiago   Diaz,Yaris,Nuevo,Showroom,Financiado,Entregado,Uma Rodriguez,20000.0,5.5,1100.0,no
+OP-040,2026-01-15,Luciana Quiroga,Onix,Nuevo,Instagram,Financiado,Entregado,Uma Rodriguez,18500.0,6.0,1110.0,si
+OP-041,2026-01-22,Juan Ignacio Martinez,Yaris,Usado,Referido,Financiado,Reservado,Luca Gonzalez,14800.0,7.5,1110.0,no
+OP-042,2026-02-24,Juana Godoy,"Onix,tracker",Usado,Referido,Financiado,Devuelto,Abril Peralta,34000.0,3.0,1020.0,no
+OP-043,2026-03-03,Pedro Diaz,Onix,Usado,MercadoLibre,Contado,Entregado,Abril Peralta,11900.0,5.5,654.5,si
+OP-044,2026-03-14,Alma Fernandez,"Corolla Cross, Amarok, Yaris",Usado,Instagram,Permuta + saldo,Entregado,Ciro Gonzalez,73800.0,3.5,2583.0,si
+OP-045,2026-03-15,Juan Pablo Ojeda,Yaris,Nuevo,Web,Financiado,Entregado,Abril Peralta,20100.0,3.0,603.0,si
+OP-046,2026-03-24,Juana Godoy,"Corolla Cross, Yaris",Nuevo,MercadoLibre,Financiado,Entregado,Victoria Diaz,55500.0,3.0,1665.0,no
+OP-047,2026-03-24,Candela Martinez,Kicks,Usado,Web,Financiado,Entregado,Luca Gonzalez,18400.0,5.5,1012.0,si
+OP-048,2026-03-31,Luciana Quiroga,Corolla Cross,Nuevo,Instagram,Financiado,Entregado,Abril Peralta,"$ 33.400,00",3.5,1169.0,si
+OP-049,2026-03-31,Luciana Quiroga,"Onix, Amarok, Tracker",Nuevo,Showroom,Permuta + saldo,Reservado,Victoria Diaz,98500.0,6.0,5910.0,no
+OP-050,2026-04-11,Mateo Benjamin Valdez,Taos,Nuevo,Instagram,Contado,Entregado,Luca Gonzalez,30600.0,7.0,2142.0,si
+OP-051,2026-04-17,Mateo Alvarez,Taos,Nuevo,Showroom,Cheques,Entregado,Ciro Gonzalez,31700.0,3.0,951.0,si
+OP-052,2026-04-25,Tomas Fernandez,Yaris,Usado,MercadoLibre,Contado,Entregado,Abril Peralta,13500.0,7.0,945.0,si
+OP-053,2026-05-13,Luciana Quiroga,Hilux,Nuevo,Referido,Permuta + saldo,Entregado,Uma Rodriguez,46100.0,8.0,3688.0,si
+OP-054,2026-05-21,Milena Rios,Kicks,Usado,Instagram,Permuta + saldo,Entregado,Uma Rodriguez,17000.0,5.5,935.0,si
+OP-055,2026-05-21,Alma Fernandez,Yaris,Nuevo,Web,Permuta + saldo,Entregado,Ciro Gonzalez,19800.0,6.5,1287.0,si
+OP-056,2026-06-13,Luciana Quiroga,Yaris,Nuevo,Instagram,Financiado,Entregado,Luca Gonzalez,19600.0,4.5,882.0,si
+OP-057,2026-07-18,Micaela Lopez,Yaris,Nuevo,Instagram,Cheques,Entregado,Victoria Diaz,20000.0,5.5,1100.0,no
+OP-058,2026-08-09,Micaela Ojeda,Tracker,Nuevo,Instagram,Permuta + saldo,Entregado,Uma Rodriguez,25600.0,5.5,1408.0,si
+OP-059,2026-08-09,Catalina Suarez,Kicks,Nuevo,MercadoLibre,Financiado,Entregado,Uma Rodriguez,25400.0,8.0,2032.0,si
+OP-060,2026-08-18,Luciana Quiroga,Corolla Cross,Nuevo,MercadoLibre,Cheques,Entregado,Luca Gonzalez,33000.0,8.0,2640.0,si

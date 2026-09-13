@@ -1,20 +1,16 @@
-# Environment
-.env
+# Entorno
 venv/
+.venv/
+.env
+.streamlit/secrets.toml
+
+# Python
 __pycache__/
 *.pyc
+.pytest_cache/
 
-# Vector DB
-chroma_db/
-
-# IDE
+# IDE / SO
 .vscode/
 .idea/
-
-# OS
 .DS_Store
 *.swp
-
-# Cache
-.streamlit/
-*.cache
